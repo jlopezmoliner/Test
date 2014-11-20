@@ -1,0 +1,17 @@
+{
+    "contents" : "# from shell terminal do: \n# git init\n\n\n\n",
+    "created" : 1416483163773.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2497881983",
+    "id" : "1E2E27FE",
+    "lastKnownWriteTime" : 1416483320,
+    "path" : "~/R/develop/Test/test1.R",
+    "project_path" : "test1.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

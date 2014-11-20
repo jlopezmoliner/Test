@@ -1,12 +1,12 @@
 {
-    "contents" : "# from shell terminal do: \n# git init\n\n\n\n",
+    "contents" : "# from shell terminal do: \n# git init\n# add file to do version control\n# git add -A\n\n#to commit changes\n#git commit -m \"I build file test1.R\"\n\n#git remote add origin https://github.com/jlopezmoliner/Test.git\n\n#to updload to github\n#git push -u origin master  \n",
     "created" : 1416483163773.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2497881983",
+    "hash" : "2200978645",
     "id" : "1E2E27FE",
-    "lastKnownWriteTime" : 1416483320,
+    "lastKnownWriteTime" : 1416484013,
     "path" : "~/R/develop/Test/test1.R",
     "project_path" : "test1.R",
     "properties" : {
